@@ -5,7 +5,7 @@ var sessionId = '';
 var name = '';
 
 // socket connection url and port
-var socket_url = '192.168.1.111';
+var socket_url = '192.168.1.100';
 var port = '8080';
 
 $(document).ready(function() {

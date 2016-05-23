@@ -18,7 +18,7 @@
 		<div id="header">
 			<h1>Android WebSockets Chat Application</h1>
 			<p class='online_count'>
-				<b>23</b> people online right now
+				<b>0</b> people online right now
 			</p>
 		</div>
 
