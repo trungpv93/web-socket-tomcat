@@ -1,1 +1,3 @@
-# web-socket-tomcat
+# Web Socket Tomcat Chat + Android App
+
+**trungpv**
